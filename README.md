@@ -1,3 +1,24 @@
+# Paul Tergeist
+
+# Projet "fil rouge" personnel
+
+J'ai commencé l'écriture de ce roman il y a 20 ans. Mais je l'ai complètement réécrit selon une méthode assez particulière depuis janvier 2021:
+Chaque jour, je publie un tweet pour faire avancer l'histoire sur le compte twitter dédié [@PonponTergeist](https://twitter.com/PonponTergeist).
+
+Bon déjà, faut être patient. La technique consiste à écrire régulièrementt. Et s'astreindre à publier aide à être régulier.
+
+Mais... je ne fais pas lees choses simplement. L'histoire de ce roman se corse quand le lecteur a parfois le choix de suivre telle ou telle action, tel ou tel personnage plutôt qu'una autre. Ce n'est pas un livre-jeu, tout est accessible, et chaque branche peut "simplement" être visitée dans un ordre différent selon chaque lecteur.
+
+Et dans un second temps, c'est un jeu.
+Le texte est émaillé de références à la pop-culture séries/cinéma/musique. Trouver chaque référence est un jeu en soit. Les réponses seront rendues disponibles directement pendant la lecture, à la demande du lecteur, dans un second temps (c'est à dire dès que j'aurai fini de rendre lisible les 400 tweets déjà écrits).
+
+Et ensuite? Je reprends l'écriture sur Twitter et je mets le site à jour quotidiennement pour que le texte soit aussi accessbile hors de l'oiseau bleu.
+
+Bienvenue à vous sur ce projet.
+Bonne lecture!
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
